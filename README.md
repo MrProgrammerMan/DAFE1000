@@ -22,7 +22,13 @@ The repository is organized into chapters and subchapters, each containing relev
 
 ## Chapter Overview
 
-[To be filled in linking to files]
+### Chapter 1: Introduction
+- [1.1: Running Python for the first time](1:%20Introduction/1.1:%20Running%20Python%20for%20the%20first%20time/index.ipynb)
+- [1.2: Python as a calculator](1:%20Introduction/1.2:%20Python%20as%20a%20calculator/a.ipynb)
+- [1.3: NumPy and other libraries](1:%20Introduction/1.3:%20NumPy%20and%20other%20libraries/a.ipynb)
+- [1.4: Assignment](1:%20Introduction/1.4:%20Assignement/a.ipynb)
+- [1.5: On variable names](1:%20Introduction/1.5:%20On%20variable%20names/index.ipynb)
+- [1.6: Printing numbers and machine precision](1:%20Introduction/1.6:%20Printing%20numbers%20and%20machine%20precision/a.ipynb)
 
 ## Getting Started
 
