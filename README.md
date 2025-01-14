@@ -27,3 +27,4 @@ The repository is organized into chapters and subchapters, each containing relev
 ## Getting Started
 
 To get started with this repository, I recommend you install the Jupyter extension for VSCode: https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
+Some excercises require certain libraries like numpy and matplotlib. You may need to install pip to get these packages: https://pypi.org/project/pip/
