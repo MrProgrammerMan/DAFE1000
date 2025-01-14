@@ -1,1 +1,6 @@
 env
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Jupyter notebook metadata
+*.ipynb-meta
